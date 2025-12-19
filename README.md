@@ -66,8 +66,8 @@ calculator/
  
 ## 📸 Screenshots
 
-  ![Calculator Light Mode](screenshots/light-mode.png)
-  ![Calculator Dark Mode](screenshots/dark-mode.png)
+  ![Calculator Light Mode](light-mode.png)
+  ![Calculator Dark Mode](dark-mode.png)
 
 
 ## 📄 License
